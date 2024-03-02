@@ -1,5 +1,5 @@
 # SSPROP-NFOL-DemoCode
-Demo codes files that illustrates the use of SSPROP-NFOL project (https://github.com/TerenceWSK/SSPROP-NFOL).
+Demo codes files that illustrate the use of SSPROP-NFOL project (https://github.com/jiaye-wu/SSPROP-NFOL).
 
 # Description
 The Demo Codes in this directory illustrate how to use SSPROP-NFOL to simulate linear and nonlinear propagation in fiber.  
@@ -8,9 +8,9 @@ The Demo Codes reproduce many of the numerical results that are presented in Cha
 It is recommended that you add the root directory in addition to the main SSPROP-NFOL directory to your Matlab path before running the demo. 
 
 # Term of Use
-The use of these examples (including modification, direct use, reference) should follow BOTH:
-1. Apache licence 2.0 (http://www.apache.org/licenses/LICENSE-2.0) and 
-2. Additional Term of Use listed below.
+The use of these examples (including modification, direct use, and reference) should follow BOTH:
+1. Apache license 2.0 (http://www.apache.org/licenses/LICENSE-2.0) and 
+2. Additional Terms of Use listed below.
 
 # License
 Copyright 2018 Terence J. Wu
